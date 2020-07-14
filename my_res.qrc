@@ -1,0 +1,79 @@
+<RCC>
+    <qresource prefix="/">
+        <file>map/map01.bmp</file>
+        <file>map/map02.bmp</file>
+        <file>item/victory.png</file>
+        <file>startmenu/icon.jpg</file>
+        <file>startmenu/startmenu.bmp</file>
+        <file>startmenu/startmenu_change.bmp</file>
+        <file>item/back01.png</file>
+        <file>item/back02.png</file>
+        <file>item/startgame01.png</file>
+        <file>item/startgame02.png</file>
+        <file>startmenu/title.png</file>
+        <file>item/frame.png</file>
+        <file>map/map.bmp</file>
+        <file>item/backmenu.png</file>
+        <file>item/LevelIcon.png</file>
+        <file>music/Map_Theme_1.wav</file>
+        <file>music/savage_music_desert_battle.wav</file>
+        <file>music/savage_music_jungle_battle.wav</file>
+        <file>music/savage_music_theme.wav</file>
+        <file>music/Sound_LooseLife.wav</file>
+        <file>music/Sound_TowerBuilding.wav</file>
+        <file>music/Sound_TowerSell.wav</file>
+        <file>music/Archer_Ready.wav</file>
+        <file>music/Archer_Taunt1.wav</file>
+        <file>music/Archer_Taunt2.wav</file>
+        <file>music/Artillery_Ready.wav</file>
+        <file>music/Artillery_Taunt1.wav</file>
+        <file>music/Artillery_Taunt2.wav</file>
+        <file>music/Mage_Ready.wav</file>
+        <file>music/Mage_Taunt1.wav</file>
+        <file>music/Mage_Taunt2.wav</file>
+        <file>music/startmenu.mp3</file>
+        <file>tower/Artillery/Artillery_1.png</file>
+        <file>tower/Artillery/Artillery_2.png</file>
+        <file>map/flag.png</file>
+        <file>map/map03.bmp</file>
+        <file>map/flag02.png</file>
+        <file>map/flag_1.png</file>
+        <file>config/easyTowersPosition.plist</file>
+        <file>config/hardTowersPosition.plist</file>
+        <file>config/Info.plist</file>
+        <file>config/Waves.plist</file>
+        <file>monster/kuai_front/image 11010.png</file>
+        <file>monster/kuai_front/image 11012.png</file>
+        <file>monster/kuai_front/image 11014.png</file>
+        <file>monster/kuai_front/image 11016.png</file>
+        <file>monster/kuai_front/image 11018.png</file>
+        <file>monster/kuai_front/image 11020.png</file>
+        <file>monster/kuai_front/image 11022.png</file>
+        <file>monster/kuai_front/image 11024.png</file>
+        <file>monster/normalMonster.gif</file>
+        <file>tower/upgrade.png</file>
+        <file>tower/Archer/Archer01.png</file>
+        <file>item/circle.png</file>
+        <file>tower/keng.png</file>
+        <file>monster/normalMonster.png</file>
+        <file>bullet/bullet.png</file>
+        <file>tower/Mage/mage_1.png</file>
+        <file>item/ui.png</file>
+        <file>music/NotEnoughSun.wav</file>
+        <file>monster/boss/boss_1.png</file>
+        <file>music/push.wav</file>
+        <file>music/death.wav</file>
+        <file>monster/big.png</file>
+        <file>bullet/archer.png</file>
+        <file>bullet/Artillery.png</file>
+        <file>bullet/boss.png</file>
+        <file>bullet/mage.png</file>
+        <file>tower/Artillery/Artillery_3.png</file>
+        <file>tower/Artillery/boom.png</file>
+        <file>tower/Archer/Archer_2.png</file>
+        <file>tower/Archer/archer_3.png</file>
+        <file>tower/Mage/mage_2.png</file>
+        <file>tower/Mage/mage_3.png</file>
+        <file>monster/boss/boss_3.png</file>
+    </qresource>
+</RCC>
